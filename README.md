@@ -5,3 +5,7 @@ Primarily a repo for increasing familiarity with machine learning across the dif
 
 ### TransferLearningTF
 This is Microsoft's tutorial found [here](https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/image-classification).
+
+
+### TaxiFarePrediction
+This is Microsoft's tutorial found [here](https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/predict-prices).
