@@ -1,0 +1,9 @@
+vendor_id,rate_code,passenger_count,trip_time_in_secs,trip_distance,payment_type,fare_amount
+CMT,1,1,1271,3.8,CRD,True
+CMT,1,1,1271,3.8,CRD,True
+CMT,1,1,1271,3.8,CRD,True
+CMT,1,1,1271,3.8,CRD,True
+CMT,1,1,1271,3.8,CRD,True
+CMT,1,1,1271,3.8,CRD,True
+CMT,1,1,1271,3.8,CRD,True
+CMT,1,1,1271,3.8,CSH,False
