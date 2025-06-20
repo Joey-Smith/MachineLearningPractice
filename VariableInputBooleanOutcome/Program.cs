@@ -1,11 +1,3 @@
-﻿using Microsoft.ML;
-using BinaryClassification;
-using BinaryClassification.logic;
-using BinaryClassification.models;
+﻿using BinaryClassification.logic;
 
-MLContext mlContext = new MLContext(seed: 0);
-Prediction prediction = new Prediction();
-
-var model = prediction.Train(mlContext);
-prediction.Evaluate(mlContext, model);
-prediction.TestSinglePrediction(mlContext, model);
+LogisticRegression.Run();
