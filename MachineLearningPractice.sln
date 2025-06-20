@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransferLearningTF", "Trans
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiFarePrediction", "TaxiFarePrediction\TaxiFarePrediction.csproj", "{FD1D9664-A24F-49F9-8332-5D17E3AD93A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryClassification", "VariableInputBooleanOutcome\BinaryClassification.csproj", "{AB320A38-D47A-450A-9210-0DC6A6070224}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FD1D9664-A24F-49F9-8332-5D17E3AD93A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD1D9664-A24F-49F9-8332-5D17E3AD93A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD1D9664-A24F-49F9-8332-5D17E3AD93A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB320A38-D47A-450A-9210-0DC6A6070224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB320A38-D47A-450A-9210-0DC6A6070224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB320A38-D47A-450A-9210-0DC6A6070224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB320A38-D47A-450A-9210-0DC6A6070224}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
